@@ -1,0 +1,30 @@
+{
+  "intents": [
+    {
+      "intent": "STSetMode",
+      "slots": [
+        {
+          "name": "mode",
+          "type": "LITERAL"
+        }
+      ]
+    },
+    {
+      "intent": "STSamples",
+      "slots": [ ]
+    },
+    {
+      "intent": "STSwitch",
+      "slots": [
+        {
+          "name": "switch",
+          "type": "LITERAL"
+        },
+        {
+          "name": "state",
+          "type": "LITERAL"
+        }
+      ]
+    }
+  ]
+}

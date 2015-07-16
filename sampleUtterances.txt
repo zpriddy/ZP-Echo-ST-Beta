@@ -1,0 +1,83 @@
+STSetMode set mode to {away|mode}
+STSetMode set mode to {home|mode}
+STSetMode set mode to {sleeping|mode}
+STSetMode set mode to {night|mode}
+STSetMode set mode to {test mode|mode}
+
+STSetMode set mode to {away|mode} mode
+STSetMode set mode to {home|mode} mode
+STSetMode set mode to {sleeping|mode} mode
+STSetMode set mode to {night|mode} mode
+
+STSetMode change mode to {away|mode}
+STSetMode change mode to {home|mode}
+STSetMode change mode to {sleeping|mode}
+STSetMode change mode to {night|mode}
+
+STSetMode acitvate {away|mode} mode
+STSetMode acitvate {home|mode} mode
+STSetMode acitvate {sleeping|mode} mode
+STSetMode acitvate {night|mode} mode
+
+
+STSwitch switch {kitchen lights|switch} {off|state}
+STSwitch switch {inside lights|switch} {off|state}
+STSwitch switch {bedroom fan|switch} {off|state}
+
+STSwitch switch {kitchen lights|switch} {on|state}
+STSwitch switch {inside lights|switch} {on|state}
+STSwitch switch {bedroom fan|switch} {on|state}
+
+STSwitch switch {kitchen lights|switch} {toggle|state}
+STSwitch switch {inside lights|switch} {toggle|state}
+STSwitch switch {bedroom fan|switch} {toggle|state}
+
+
+
+STSwitch tell switch {bedroom fan|switch} to {off|state}
+STSwitch tell switch {inside lights|switch} to {off|state}
+STSwitch tell switch {kitchen lights|switch} to {off|state}
+
+STSwitch tell switch {bedroom fan|switch} to {on|state}
+STSwitch tell switch {inside lights|switch} to {on|state}
+STSwitch tell switch {kitchen lights|switch} to {on|state}
+
+STSwitch tell switch {bedroom fan|switch} to {toggle|state}
+STSwitch tell switch {inside lights|switch} to {toggle|state}
+STSwitch tell switch {kitchen lights|switch} to {toggle|state}
+
+
+
+STSwitch set {bedroom fan|switch} switch {off|state}
+STSwitch set {inside lights|switch} switch {off|state}
+STSwitch set {kitchen lights|switch} switch {off|state}
+
+STSwitch set {bedroom fan|switch} switch {on|state}
+STSwitch set {inside lights|switch} switch {on|state}
+STSwitch set {kitchen lights|switch} switch {on|state}
+
+STSwitch set {bedroom fan|switch} switch {toggle|state}
+STSwitch set {inside lights|switch} switch {toggle|state}
+STSwitch set {kitchen lights|switch} switch {toggle|state}
+
+
+
+
+STSwitch set switch {bedroom fan|switch} {off|state}
+STSwitch set switch {inside lights|switch} {off|state}
+STSwitch set switch {kitchen lights|switch} {off|state}
+
+STSwitch set switch {bedroom fan|switch} {on|state}
+STSwitch set switch {inside lights|switch} {on|state}
+STSwitch set switch {kitchen lights|switch} {on|state}
+
+STSwitch set switch {bedroom fan|switch} {toggle|state}
+STSwitch set switch {inside lights|switch} {toggle|state}
+STSwitch set switch {kitchen lights|switch} {toggle|state}
+
+STSamples give me new samples
+STSamples show me samples
+STSamples give me samples
+STSamples show me new samples
+
+
