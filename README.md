@@ -47,7 +47,7 @@ This should allow you to authorize it to control SmartThings. Login to your Smar
 
 ### Improved Sample Utterances
 
-At this time the App will be able to generate a custom list of sample utterances to give you better support in controling your devices. 
+At this time the App will be able to generate a custom list of sample utterances to give you better support in controling your devices.  **This is a new Alexa ID, not the one you got initially.**
 
 To get this list ask Alexa: 'Alexa, ask Smart Things to give me samples"
 
