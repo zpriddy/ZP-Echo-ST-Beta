@@ -79,5 +79,6 @@ STSamples give me new samples
 STSamples show me samples
 STSamples give me samples
 STSamples show me new samples
+STSamples give me a new alexa id
 
 

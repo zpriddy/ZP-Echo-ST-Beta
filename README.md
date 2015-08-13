@@ -21,6 +21,9 @@ The ASK is available at: https://developer.amazon.com/public/solutions/alexa/ale
 2. Go to the next page and copy the intentSchema.json to the Intent Schema and sampleUtterances.txt to the Sample Utterances
     *  Note: We are going to come back here an update this file in a few minutes. So don't close the window.
 2. Go to the next page and select 'My development endpoint has a certificate from a trusted certificate authority (required for certification)'
+2. You DO NOT need to publish the app to Amazon
+
+
 ### Setting Up SmartThings
 
 ##### Install the SmartApp
@@ -37,7 +40,9 @@ Click the **'Save'** button and then **'Publish -> For Me'**.
 
 ##First Run
 
-At this time you will have to go to your Echo and say 'Alexa, Talk to Smart Things' (Replace Smart Things with what the Invocation Name you set). It should say that you are an unautherized Nest user and to check the card in your Echo App. Open the Echo app and look at the card there. It should give you your Alexa ID. This is a 10 digit - One Time Use ID.
+At this time you will have to go to your Echo and say 'Alexa, Talk to Smart Things' (Replace Smart Things with what the Invocation Name you set). It should say that you are an unauthorized user and to check the card in your Echo App. Open the Echo app and look at the card there. It should give you your Alexa ID. This is a 10 digit - One Time Use ID.
+
+You can connect to the Echo in your web browser by going to: https://echo.amazon.com
 
 Go to https://alexa.zpriddy.com/alexa and click on the quick links for SmartThings Alexa Auth.
 
@@ -49,7 +54,7 @@ This should allow you to authorize it to control SmartThings. Login to your Smar
 
 At this time the App will be able to generate a custom list of sample utterances to give you better support in controling your devices.  **This is a new Alexa ID, not the one you got initially.**
 
-To get this list ask Alexa: 'Alexa, ask Smart Things to give me samples"
+To get this list ask Alexa: 'Alexa, ask Smart Things to give me a new Alexa ID"
 
 Go to https://alexa.zpriddy.com/alexa and click on the quick links for SmartThings Samples. And enter your new Alexa ID from the Echo App.
 
